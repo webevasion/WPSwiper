@@ -1,7 +1,7 @@
 # WPSwiper
 WP Swiper is a module for easy customization & integration of idangero.us Swiper slider.
 
-Version 1.0 is in development, please wait for the open-source project.
+Version 1.0 is in development, please wait for the full github project.
 
 ##Links
   * [WP Swiper slider on WordPress plugins directory](https://fr.wordpress.org/plugins/wp-swiper-slider/)
